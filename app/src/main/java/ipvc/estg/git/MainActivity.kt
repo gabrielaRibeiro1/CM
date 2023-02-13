@@ -15,5 +15,8 @@ class MainActivity : AppCompatActivity() {
         //add method B
 
         //something from branch funcionalidade1
+
+        //something from branch funcionalidade1 commit1
+
     }
 }
