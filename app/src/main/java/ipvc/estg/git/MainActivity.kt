@@ -23,5 +23,7 @@ class MainActivity : AppCompatActivity() {
         //something from branch funcionalidade1 commit3
 
         //olá sou a outra pessoa
+
+        //olá sou a outra pessoa2
     }
 }
